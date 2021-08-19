@@ -1,14 +1,12 @@
 body{
   background-color: #e6bd3a;
-  color: white;
-  font-size: 25px;
   display: grid;
   grid-template-rows: 100vh;
   grid-template-columns: 100vw;
 }
 
 .container{
-  width: 90%;
+  width: 80%;
   text-align: center;
   justify-self: center;
   align-self: center;
